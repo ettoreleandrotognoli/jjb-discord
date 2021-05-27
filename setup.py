@@ -16,7 +16,7 @@ setup(
     long_description=read('README.md'),
     long_description_content_type='text/markdown',
     url='https://github.com/ettoreleandrotognoli/jjb-discord',
-    download_url='https://github.com/ettoreleandrotognoli/jjb-discord/tree/%s/' % __version__,
+    download_url='https://github.com/ettoreleandrotognoli/jjb-discord/tree/v%s/' % __version__,
     author='Ettore Leandro Tognoli',
     author_email='ettoreleandrotognoli@gmail.com',
     license='Apache License 2.0',
