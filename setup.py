@@ -1,7 +1,7 @@
 import os
 from setuptools import setup
 
-__version__ = '0.0.devSNAPSHOT'
+__version__ = '0.0.1'
 
 
 def read(file_name):
